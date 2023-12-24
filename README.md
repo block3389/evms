@@ -11,6 +11,7 @@
 ## 机制:
 
 住在BSC链上, 合约已开源
+
 `0x888887eae8eb4ed1fea809a2b838c8ccc7d3db2b` Mint合约
 
 `0x66666e6e88db28b16d04a15cc2281570857fa13b` Token合约
